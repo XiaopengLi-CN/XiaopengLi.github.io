@@ -16,7 +16,6 @@ I mainly work on LLMs and Multi-modal Recommender Systems. I also have broad int
 
 - *Dec, 2023.* Awarded **National Encouragement Scholarship** by Ministry of Education!
 - *Dec, 2022.* Awarded **National Encouragement Scholarship** by Ministry of Education!
-
 - *Dec, 2021.* Awarded **Qingdao Bank Scholarship** by Bank of Qingdao Company Limited!
 
 ## Miscellaneous
