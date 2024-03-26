@@ -8,13 +8,13 @@ redirect_from:
 published: true
 ---
 
-I am a fourth-year undergraduate student studying Software Engineering in Qingdao University of Technology.
+Hi! I am a final-year (senior) undergrad majoring in Software Engineering at Qingdao University of Technology.
 
 I mainly work on LLMs and Multi-modal Recommender Systems. I also have broad interests in other fields of GNN, such as the accuracy of the results while exploring the trustworthiness of the results.
 
-## Selected Publications
+## Professional Services
 
-## Misc
+## Miscellaneous
 
 Chinese name: 李晓鹏  
 Pronunciation of my name: Xiaopeng [ˈrɛnˌfeɪ],Li [ˈʒoʊ]. Sounds like "Ren-fay Lee".  

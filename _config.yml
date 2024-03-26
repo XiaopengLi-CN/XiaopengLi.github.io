@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xiaopeng LI（李晓鹏）"
 title_separator          : "-"
-name                     : &name "Xiaopeng LI"
+name                     : &name "Xiaopeng LI（李晓鹏）"
 description              : &description "Great code is a lot like a thief 
                       both know how to steal heart"
 url                      : https://XiaopengLi-CN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
