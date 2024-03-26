@@ -11,9 +11,9 @@ title                    : "Xiaopeng Li"
 title_separator          : "-"
 name                     : &name "Xiaopeng Li"
 description              : &description "TCS Researcher"
-url                      : https://orbitingflea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://XiaopengLi-CN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "orbitingflea/orbitingflea.github.io"
+repository               : "XiaopengLi-CN/XiaopengLi-CN.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "orbitingflea"
+  github           : "XiaopengLi-CN"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : # "orbitingflea"
+  steam            : # "XiaopengLi-CN"
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :

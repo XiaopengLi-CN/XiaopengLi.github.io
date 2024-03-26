@@ -34,7 +34,7 @@ Back to the topic of derandomization. As we already know the best tradeoff for r
 
 ## 1-Dimensional Dynamic Succinct Data Structures
 
-See [Story of 1-Dimensional Dynamic Succinct Data Structures](https://orbitingflea.github.io/posts/2023/08/1dim-dsds) for backgrounds.
+See [Story of 1-Dimensional Dynamic Succinct Data Structures](https://XiaopengLi-CN.github.io/posts/2023/08/1dim-dsds) for backgrounds.
 
 **Open Questions** about applications of Dynamic Succincter:
 - For arithmetic coding with $O(1)$ alphabet and point updates (single-element updates), is there a data structure with $O(n / \text{poly} \log n)$ redundancy and $O(1)$ operation time? If not, what is the best trade-off curve we can achieve?
