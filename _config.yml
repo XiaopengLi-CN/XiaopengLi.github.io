@@ -86,7 +86,7 @@ author:
   bio              : "Great code is a lot like a thief,
                       both know how to steal hearts"
   location         : "Qingdao, China"
-  employer         : "Qingdao University of Technology"
+  employer         : # "Qingdao University of Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0XHmKe8AAAAJ"
   email            : "XiaopengLi.Tech@Foxmail.com"
