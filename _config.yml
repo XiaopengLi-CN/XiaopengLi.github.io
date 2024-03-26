@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Xiaopeng LI（李晓鹏）"
 title_separator          : "-"
 name                     : &name "Xiaopeng LI"
-description              : &description "Great code is a lot like a thief, 
-                      both know how to steal hearts."
+description              : &description "Great code is a lot like a thief 
+                      both know how to steal heart"
 url                      : https://XiaopengLi-CN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiaopengLi-CN/XiaopengLi-CN.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Xiaopeng LI"
   avatar           : "profile.jpg"
-  bio              : "Great code is a lot like a thief, 
-                      Both know how to steal heart."
+  bio              : "Great code is a lot like a thief
+                      Both know how to steal heart"
   location         : "Qingdao, China"
   employer         : "Qingdao University of Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ILT2Tx8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=0XHmKe8AAAAJ"
   email            : "XiaopengLi.Tech@Foxmail.com"
   researchgate     : # "https://www.researchgate.net/profile/Renfei-Zhou"
   uri              :
@@ -104,14 +104,14 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/xiaopeng-li-390414299/"
+  linkedin         :  "xiaopeng-li-390414299"
   orcid            : "https://orcid.org/0009-0005-9617-085X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : # "XiaopengLi-CN"
   tumblr           :
-  twitter          :  "https://twitter.com/XiaopengLi2024"
+  twitter          :  "XiaopengLi2024"
   vine             :
   weibo            :
   xing             :
