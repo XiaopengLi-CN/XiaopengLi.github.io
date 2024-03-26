@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaopeng Li"
+title                    : "Xiaopeng LI（李晓鹏）"
 title_separator          : "-"
-name                     : &name "Xiaopeng Li"
+name                     : &name "Xiaopeng LI（李晓鹏）"
 description              : &description "TCS Researcher"
 url                      : https://XiaopengLi-CN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaopeng Li"
+  name             : "Xiaopeng LI（李晓鹏）"
   avatar           : "profile.jpg"
   bio              : "TCS Researcher"
   location         : "Beijing, China"
