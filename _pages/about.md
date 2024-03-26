@@ -8,9 +8,17 @@ redirect_from:
 published: true
 ---
 
-Hi! I am a final-year (senior) undergrad majoring in Software Engineering at Qingdao University of Technology.
+Hi! I am a final-year (senior) undergrad majoring in Software Engineering at Qingdao University of Technology. I plan to pursue a master's degree at UNIST in the fall of 2024.
 
-I mainly work on LLMs and Multi-modal Recommender Systems. I also have broad interests in other fields of GNN, such as the accuracy of the results while exploring the trustworthiness of the results.
+My current research interests are combining **graph machine learning** theory and **large language model** techniques to create applications. (In the past three months, I have taken the course "Stanford CS224W" via YouTube, which has fascinated me.)
+
+What I’m obsessed with learning in 2023: NLP(CS224N), Trustworthy LLMs, Recommender Systems. 
+
+What I’m obsessed with learning in 2022: Hadoop, Spark, Flink, Data Mining, Visualization Education. 
+
+What I’m obsessed with learning in 2021: Python, Machine Learning Models, Mobile App Development.
+
+What I’m obsessed with learning in 2020: C/C++, Java, Web Development wtih Springboot and Vue.js.
 
 ## Recent News
 
