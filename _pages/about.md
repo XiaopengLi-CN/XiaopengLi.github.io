@@ -10,7 +10,7 @@ published: true
 
 Hi! I am a final-year (senior) undergrad majoring in Software Engineering at Qingdao University of Technology. I plan to pursue a master's degree at UNIST in the fall of 2024.
 
-My current research interests are combining **graph machine learning** theory and **large language model** techniques to create applications. (In the past three months, I have taken the course "Stanford CS224W" via YouTube, which has fascinated me.)
+My current research interests are combining **Graph Machine Learning** theory and **Large Language Model** techniques to create applications. (In the past three months, I have taken the course "Stanford CS224W" via YouTube, which has fascinated me.)
 
 What I’m obsessed with learning in 2023: NLP(CS224N), Trustworthy LLMs, Recommender Systems. 
 
@@ -34,7 +34,7 @@ What I’m obsessed with learning in 2020: C/C++, Java, Web Development wtih Spr
    - 李 (lǐ)
    - 晓 (xiǎo)
    - 鹏 (péng)
-2. **Understand the Sounds:**
+2. **Understand the Sound:**
    - 李 (lǐ) - The "lǐ" sounds similar to the "lee" in the English word "lee," but remember to lightly touch the tip of your tongue to the back of your upper teeth.
    - 晓 (xiǎo) - The "xiǎo" sounds like "shyow" in English, with the "x" similar to the "sh" sound.
    - 鹏 (péng) - The "p" is pronounced like in English. "Péng" sounds like "pung" in English, but again, lightly touch the tip of your tongue to the back of your upper teeth.
